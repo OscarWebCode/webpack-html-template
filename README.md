@@ -1,1 +1,8 @@
-# webpack-html-template
+## HTML Template
+
+### TypeScript
+### SCSS
+### Webpack
+### Prettier
+### Minifier
+### Babel

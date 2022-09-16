@@ -31,13 +31,11 @@ module.exports = {
         }),
         new HtmlWebpackPlugin({
             title: 'Oscar HTML Template',
-            favicon: paths.src + '/images/favicon.png',
             template: paths.src + '/pages/index.html',
             filename: 'index.html',
         }),
         new HtmlWebpackPlugin({
             title: 'Oscar HTML Page',
-            favicon: paths.src + '/images/favicon.png',
             template: paths.src + '/pages/page.html',
             filename: './page.html',
         }),

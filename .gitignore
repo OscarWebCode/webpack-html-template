@@ -21,3 +21,4 @@
 .cache
 .eslintcache
 .gitconfig
+package-lock.json

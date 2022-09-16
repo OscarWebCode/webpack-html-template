@@ -6,3 +6,4 @@
 ### Prettier
 ### Minifier
 ### Babel
+### Image Optimization
